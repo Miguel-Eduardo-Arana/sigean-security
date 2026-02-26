@@ -1,0 +1,5 @@
+{
+  "name": "Sigean Security Module",
+  "description": "Módulo de Seguridad Sigean con CRUD para 5 colecciones, dashboard minimalista y navegación por tarjetas.",
+  "requestFramePermissions": []
+}
