@@ -245,8 +245,8 @@ export default function App() {
               <p className="text-sm font-semibold text-gray-900">Admin Sigean</p>
               <p className="text-xs text-gray-500">Super Usuario</p>
             </div>
-            <div className="w-10 h-10 bg-gray-100 rounded-full border-2 border-white shadow-sm overflow-hidden">
-              <img src="https://picsum.photos/seed/admin/100/100" alt="Avatar" referrerPolicy="no-referrer" />
+            <div className="w-10 h-10 bg-primary/10 rounded-full border-2 border-white shadow-sm flex items-center justify-center">
+              <Shield className="w-5 h-5 text-primary" />
             </div>
           </div>
         </div>
