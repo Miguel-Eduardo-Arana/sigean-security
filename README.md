@@ -77,4 +77,4 @@ SIGEAN-SECURITY/
 Este módulo ha sido diseñado para demostrar la integración entre una base de datos NoSQL (MongoDB) y una aplicación web moderna, cumpliendo con los requisitos de integridad y gestión de datos solicitados.
 
 ---
-Desarrollado por [Tu Nombre/Miguel Arana] - 2026
+Desarrollado por [Equipo Quartet Code] - 2026
